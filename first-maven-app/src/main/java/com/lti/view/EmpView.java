@@ -8,7 +8,7 @@ public static void main(String[] args){
 	
 	Employee emp=new Employee();
 	emp.setEmpId(1001);
-	emp.setEmpName("Hello");
+	emp.setEmpName("James");
 	System.out.println("Id " +emp.getEmpId());
 	System.out.println("name "+emp.getEmpName());
 }
